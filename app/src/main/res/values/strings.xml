@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizXml</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="welcome">Welcome</string>
+    <string name="app_names">QuizApp</string>
+    <string name="start">Start</string>
+    <string name="country_flag">What Country does this flag belong to?</string>
+    <string name="percent">0/10</string>
+    <string name="argentina">Argentina</string>
+    <string name="australia">Australia</string>
+    <string name="armenia">Armenia</string>
+    <string name="austria">Austria</string>
+    <string name="submit">SUBMIT</string>
+</resources>
