@@ -1,6 +1,11 @@
 package io.king.quizxml
 
 object Constants{
+
+    const val USER_NAME: String = "username"
+    const val TOTAL_QUESTIONS: String = "total questions"
+    const val CORRECT_ANSWERS: String = "Correct Answer"
+
     fun getQuestions():ArrayList<Question>{
         val questionsList = ArrayList<Question>()
 
